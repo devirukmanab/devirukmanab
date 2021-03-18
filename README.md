@@ -29,7 +29,7 @@ Less talking, Let's get coding!
 <!-- BLOG-POST-LIST:START -->
 
 - [Cara Membuat Database Logika “IF” dengan MySQL di PHPMyAdmin dan Microsoft Excel](https://devirukmanab.medium.com/cara-membuat-database-logika-if-dengan-mysql-di-phpmyadmin-dan-microsoft-excel-9e5d2e4d5cb4)
-- [Cara Membuat Database dengan MySQL dan Microsoft Excel (Logika IF dan COUNTIF))](https://devirukmanab.medium.com/latihan-membuat-database-tabel-menggunakan-my-sql-dan-microsoft-excel-1-331f5e133ec2)
+- [Cara Membuat Database dengan MySQL dan Microsoft Excel (Logika IF dan COUNTIF)](https://devirukmanab.medium.com/latihan-membuat-database-tabel-menggunakan-my-sql-dan-microsoft-excel-1-331f5e133ec2)
 
 <!-- BLOG-POST-LIST:END -->
 
