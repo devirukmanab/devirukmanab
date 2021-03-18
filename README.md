@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devirukmanab&label=Profile%20views&color=0e75b6&style=flat" alt="devirukmanab" /> </p>
+
 I'm Vee.
 ## I'm a Fullstack Web Developer!
 
