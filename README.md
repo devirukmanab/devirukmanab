@@ -35,6 +35,6 @@ Less talking, Let's get coding!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devirukmanab&show_icons=true&locale=en&layout=compact" alt="devirukmanab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devirukmanab&show_icons=true&locale=en" alt="devirukmanab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devirukmanab&&hide=contribs,prs&show_icons=true&theme=tokyonightn" alt="devirukmanab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devirukmanab&" alt="devirukmanab" /></p>
