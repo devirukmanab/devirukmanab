@@ -10,12 +10,20 @@ I'm Vee.
 
 ### Connect with me:
 
-[<img align="left" alt="devirukmanab| Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][StackOverflow]
-[<img align="left" alt="devirukmanab | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="devirukmanab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="devirukmanab| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="devirukmanab| Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][Dribbble]
-[<img align="left" alt="devirukmanab| Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][Dribbble]
-[<img align="left" alt="devirukmanab| Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][Behance]
+[<img align="left" alt="decodev.id" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="abdul23lm | Facebooke" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="abdul_lm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="abdul23lm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="abdul_lm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="abdul_lm | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="abdul_lm | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
-### Languages and Tools:
+
+### 📕 Latest Article Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Cara Membuat Database Logika “IF” dengan MySQL di PHPMyAdmin dan Microsoft Excel](https://devirukmanab.medium.com/cara-membuat-database-logika-if-dengan-mysql-di-phpmyadmin-dan-microsoft-excel-9e5d2e4d5cb4)
+- [Cara Membuat Database dengan MySQL dan Microsoft Excel (Logika IF dan COUNTIF))](https://devirukmanab.medium.com/latihan-membuat-database-tabel-menggunakan-my-sql-dan-microsoft-excel-1-331f5e133ec2)
+
+<!-- BLOG-POST-LIST:END -->
