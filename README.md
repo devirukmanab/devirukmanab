@@ -10,17 +10,12 @@ I'm Vee.
 
 ### Connect with me:
 
-<a href="https://stackoverflow.com/users/devirukmanab" target="blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="devirukmanab" height="30" width="40" /></a>
-
-<a href="https://instagram.com/vee.ui" target="blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vee.ui" height="30" width="40" /></a>
-
-<a href="https://dribbble.com/devirukmanab" target="blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="devirukmanab" height="30" width="40" /></a>
-
-<a href="https://www.behance.net/devirukmanab" target="blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="devirukmanab" height="30" width="40" /></a>
-
-<a href="https://medium.com/devirukmanab" target="blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="devirukmanab" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/devirukmanab" target="blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="devirukmanab" height="30" width="40" /></a>
-</p>
+[<img align="left" alt="devirukmanab| Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][StackOverflow]
+[<img align="left" alt="devirukmanab | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="devirukmanab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="devirukmanab| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="devirukmanab| Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][Dribbble]
+[<img align="left" alt="devirukmanab| Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][Dribbble]
+[<img align="left" alt="devirukmanab| Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][Behance]
 
 ### Languages and Tools:
