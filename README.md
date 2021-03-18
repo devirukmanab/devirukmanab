@@ -32,3 +32,9 @@ Less talking, Let's get coding!
 - [Cara Membuat Database dengan MySQL dan Microsoft Excel (Logika IF dan COUNTIF))](https://devirukmanab.medium.com/latihan-membuat-database-tabel-menggunakan-my-sql-dan-microsoft-excel-1-331f5e133ec2)
 
 <!-- BLOG-POST-LIST:END -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devirukmanab&show_icons=true&locale=en&layout=compact" alt="devirukmanab" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devirukmanab&show_icons=true&locale=en" alt="devirukmanab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devirukmanab&" alt="devirukmanab" /></p>
