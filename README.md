@@ -8,7 +8,7 @@ I'm Vee.
 - 💬 Ask me about anything relevant to Web Development and UI/UX design.
 - 👯 I’m looking for someone who wants to collaborate on Writing about Web Development.
 - 📝 I regularly write articles on [Medium](https://medium.com/devirukmanab)
-- 📫 Do you wanna have a collaboration or business inquires with me? Hit me via email devirukmanabidari@gmail.com, [Instagram](https://instagram.com/vee.ui), [Twitter](https://twitter.com/witchoftech), or [LinkedIn](https://www.linkedin.com/in/devirukmanab/).
+- 📫 Do you wanna have a collaboration or business inquires with me? Hit me via email mococyber@gmail.com, [Instagram](https://instagram.com/vee.ui), [Twitter](https://twitter.com/witchoftech), or [LinkedIn](https://www.linkedin.com/in/devirukmanab/).
 
 Less talking, Let's get coding!
 
