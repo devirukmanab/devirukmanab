@@ -7,15 +7,14 @@ I'm Vee.
 
 - 💬 Ask me about anything relevant to Web Development and UI/UX design.
 - 👯 I’m looking for someone who wants to collaborate on Writing about Web Development.
-- 📝 I regularly write articles on [Medium](https://medium.com/vee-ui)
-- 📫 Do you wanna have a collaboration or business inquires with me? Hit me via: [Gmail](veebidari@gmail.com), [Instagram](https://instagram.com/veeuix), [Twitter](https://twitter.com/veeuix), or [LinkedIn](https://www.linkedin.com/in/devirukmanab/).
+- 📝 I regularly write articles on [Medium](https://medium.com/veeuix)
+- 📫 Do you wanna have a collaboration or business inquires with me? Hit me via: [Gmail](veebidari@gmail.com), [Instagram](https://instagram.com/veeuix), [Twitter](https://twitter.com/veeuix).
 
 Less talking, Let's get coding!
 
 ### Connect with me:
 
 <a href="https://twitter.com/veeuix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="veeuix" height="25" width="25" /></a>
-<a href="https://linkedin.com/in/devirukmanab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devirukmanab" height="25" width="25" /></a>
 <a href="https://instagram.com/veeuix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veeuix" height="25" width="25" /></a>
 <a href="https://www.behance.net/veeuix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="veeuix" height="25" width="25" /></a>
 <a href="https://medium.com/@devirukmanab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devirukmanab" height="25" width="25" /></a>
