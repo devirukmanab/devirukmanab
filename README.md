@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devirukmanab&label=Profile%20views&color=0e75b6&style=flat" alt="devirukmanab" /> </p>
 
-I'm Vee.
+I'm Dev.
 ## I'm a UI/UX Designer and also Web Developer!
 
 - 💬 Ask me about anything relevant to Web Development and UI/UX design.
@@ -29,11 +29,11 @@ Less talking, Let's get coding!
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Cara Membuat Database Logika “IF” dengan MySQL di PHPMyAdmin dan Microsoft Excel](https://vee-ui.medium.com/cara-membuat-database-logika-if-dengan-mysql-di-phpmyadmin-dan-microsoft-excel-9e5d2e4d5cb4)
-- [Cara Membuat Database dengan MySQL dan Microsoft Excel (Logika IF dan COUNTIF)](https://vee-ui.medium.com/latihan-membuat-database-tabel-menggunakan-my-sql-dan-microsoft-excel-1-331f5e133ec2)
+- [Cara Membuat Database Logika “IF” dengan MySQL di PHPMyAdmin dan Microsoft Excel](https://veeuix.medium.com/cara-membuat-database-logika-if-dengan-mysql-di-phpmyadmin-dan-microsoft-excel-9e5d2e4d5cb4)
+- [Cara Membuat Database dengan MySQL dan Microsoft Excel (Logika IF dan COUNTIF)](https://veeuix.medium.com/latihan-membuat-database-tabel-menggunakan-my-sql-dan-microsoft-excel-1-331f5e133ec2)
 
 <!-- BLOG-POST-LIST:END -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devirukmanab&&hide=contribs,prs&show_icons=true&theme=tokyonightn" alt="devirukmanab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deviloperidn&&hide=contribs,prs&show_icons=true&theme=tokyonightn" alt="deviloperidn" /></p>
 
