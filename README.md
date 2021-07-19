@@ -35,5 +35,5 @@ Less talking, Let's get coding!
 <!-- BLOG-POST-LIST:END -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deviloperidn&&hide=contribs,prs&show_icons=true&theme=tokyonightn" alt="deviloperidn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devirukmanab&&hide=contribs,prs&show_icons=true&theme=tokyonightn" alt="devirukmanab" /></p>
 
